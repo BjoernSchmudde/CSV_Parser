@@ -1,0 +1,15 @@
+{
+  "name": "21_mongodb_compass_import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Post.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.7.5"
+  }
+}
